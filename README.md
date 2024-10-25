@@ -8,3 +8,4 @@
 7. [https://github.com/spurthi1886/23CSBTB30/blob/main/Lab(30_08_34).ipynb]
 8. [https://github.com/spurthi1886/23CSBTB30/blob/main/Assignment-5.ipynb]
 9. [https://github.com/spurthi1886/23CSBTB30/blob/main/Lab(20_09_24).ipynb]
+10. [https://github.com/spurthi1886/23CSBTB30/blob/main/Assignment_SV.ipynb]
