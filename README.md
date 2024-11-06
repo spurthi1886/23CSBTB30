@@ -10,3 +10,5 @@
 9. [https://github.com/spurthi1886/23CSBTB30/blob/main/Lab(20_09_24).ipynb]
 10. [https://github.com/spurthi1886/23CSBTB30/blob/main/Assignment_SV.ipynb]
 11. [https://github.com/spurthi1886/23CSBTB30/blob/main/Diabetes.ipynb]
+12. [https://github.com/spurthi1886/23CSBTB30/blob/main/Random_Forest.ipynb]
+13. 
