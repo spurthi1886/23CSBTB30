@@ -12,3 +12,4 @@
 11. [https://github.com/spurthi1886/23CSBTB30/blob/main/Diabetes.ipynb]
 12. [https://github.com/spurthi1886/23CSBTB30/blob/main/Random_Forest.ipynb]
 13. [https://github.com/spurthi1886/23CSBTB30/blob/main/KNN.ipynb]
+14. [https://github.com/spurthi1886/23CSBTB30/blob/main/LabExam_4_Logistic_Regression.ipynb]
